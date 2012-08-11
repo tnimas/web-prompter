@@ -1,0 +1,5 @@
+C:\gitrepositories\web-prompter\WebPrompter\bin\WebPrompter.dll
+C:\gitrepositories\web-prompter\WebPrompter\bin\WebPrompter.pdb
+C:\gitrepositories\web-prompter\WebPrompter\obj\Debug\WebPrompter.csprojResolveAssemblyReference.cache
+C:\gitrepositories\web-prompter\WebPrompter\obj\Debug\WebPrompter.dll
+C:\gitrepositories\web-prompter\WebPrompter\obj\Debug\WebPrompter.pdb
